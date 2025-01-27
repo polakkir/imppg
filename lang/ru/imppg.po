@@ -5,7 +5,7 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: ImPPG 0.6\n"
+"Project-Id-Version: ImPPG 1.9.2 beta\n"
 "Report-Msgid-Bugs-To: Filip Szczerek <ga.software@yahoo.com>\n"
 "POT-Creation-Date: 2020-06-12 10:00+0100\n"
 "PO-Revision-Date: 2022-04-02 19:47+0100\n"
